@@ -9,8 +9,9 @@
 4. NodeJS (ใช้ในการพัฒนาและติดตั้งโปรแกรม)
 
 # ทดสอบการใช้งาน
-1.username : panut090
-2.password : 123456
+ username : panut090
+ 
+ password : 123456
  
 
   
