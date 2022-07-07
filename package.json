@@ -35,7 +35,7 @@
     "jquery-serializejson": "^2.9.0",
     "jquery-validation": "^1.19.1",
     "jquery.scrollto": "^2.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nicescroll": "^3.7.4",
     "select2": "^4.0.12",
     "select2-bootstrap4-theme": "^1.0.0",
